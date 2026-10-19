@@ -1,8 +1,52 @@
-# Tienda Don Pedro
+# 🛒 Tienda Don Pedro
 
-Tienda de barrio en Itagüí. Don Pedro quiere llevar el control de sus productos y de sus clientes.
+## Descripción
 
-## Archivos
+Tienda Don Pedro es un proyecto de práctica desarrollado para aprender programación con Python y el uso de Git.  
+Permite consultar los productos de la tienda y calcular la cantidad de productos y el valor total del inventario.
 
-- `productos.txt`: productos y precios.
-- `clientes.txt`: clientes frecuentes.
+## Productos
+
+| Producto | Precio |
+|---|---:|
+| Leche 1L | $4.500 |
+| Pan tajado | $6.500 |
+| Huevos x12 | $14.000 |
+| Café 500g | $18.000 |
+| Panela | $3.500 |
+| Arroz 1kg | $4.500 |
+
+## Estructura
+
+```text
+tienda-don-pedro/
+├── datos/
+│   ├── productos.txt
+│   ├── clientes.txt
+│   └── ventas.txt
+├── src/
+│   └── main.py
+├── .env
+├── .gitignore
+└── README.md
+```
+
+## Cómo ejecutarlo
+
+Desde la carpeta raíz del proyecto, ejecuta:
+
+```bash
+python src/main.py
+```
+
+Si el comando anterior no funciona, puedes probar:
+
+```bash
+py src/main.py
+```
+
+## Autor
+
+**autor:** [Sebastian Muñoz Herrea]
+
+**GitHub:** [https://github.com/Sonart720/Tienda-don-Pedro)
