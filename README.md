@@ -5,6 +5,14 @@
 Tienda Don Pedro es un proyecto de práctica desarrollado para aprender programación con Python y el uso de Git.  
 Permite consultar los productos de la tienda y calcular la cantidad de productos y el valor total del inventario.
 
+## 🛵 Domicilios
+
+¡Ahora también llevamos tu pedido a la casa!
+
+- **Horario:** lunes a sábado, de 8:00 a.m. a 6:00 p.m.
+- **Cobertura:** barrio Villa Esperanza y sus alrededores.
+- **Cómo pedir:** escríbenos o visita la tienda y te llevamos tu pedido.
+
 ## Productos
 
 | Producto | Precio |
@@ -47,6 +55,6 @@ py src/main.py
 
 ## Autor
 
-**autor:** [Sebastian Muñoz Herrea]
+**autor:** Sebastian Muñoz Herrea
 
-**GitHub:** [https://github.com/Sonart720/Tienda-don-Pedro)
+**GitHub:** [https://github.com/Sonart720/Tienda-don-Pedro](https://github.com/Sonart720/Tienda-don-Pedro)
