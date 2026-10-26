@@ -18,7 +18,7 @@ Permite consultar los productos de la tienda y calcular la cantidad de productos
 | Producto | Precio |
 |---|---:|
 | Leche 1L | $4.500 |
-| Pan tajado | $6.500 |
+| Pan tajado | $7.000 |
 | Huevos x12 | $14.000 |
 | Café 500g | $18.000 |
 | Panela | $3.500 |
